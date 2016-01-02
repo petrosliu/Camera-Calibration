@@ -1,0 +1,24 @@
+Channel	0
+Order	5
+Coeff	0	0.000000
+Coeff	1	0.370587
+Coeff	2	-1.691921
+Coeff	3	6.043918
+Coeff	4	-7.755468
+Coeff	5	4.032884
+Channel	1
+Order	5
+Coeff	0	0.000000
+Coeff	1	0.338371
+Coeff	2	-1.265634
+Coeff	3	5.031324
+Coeff	4	-6.423740
+Coeff	5	3.319679
+Channel	2
+Order	5
+Coeff	0	0.000000
+Coeff	1	0.446871
+Coeff	2	-2.184121
+Coeff	3	8.123281
+Coeff	4	-10.926210
+Coeff	5	5.540179
